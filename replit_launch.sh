@@ -1,2 +1,3 @@
-cd ~/$REPL_SLUG/build
+cd build
+npm i
 node index.js
