@@ -25,7 +25,7 @@ export const config = {
         },
         server: {
             host: "elliotthebom.aternos.me",
-            port: 28232,
+            port: 12527,
         },
         tls: undefined,
     },
