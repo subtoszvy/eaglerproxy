@@ -24,7 +24,7 @@ export const config = {
             originBlacklist: null,
         },
         server: {
-            host: "ubgsmp.aternos.me",
+            host: "elliotthebom.aternos.me",
             port: 28232,
         },
         tls: undefined,
